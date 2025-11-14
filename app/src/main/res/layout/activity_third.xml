@@ -50,7 +50,7 @@
         android:id="@+id/btnBackSignIn"
         android:layout_width="195dp"
         android:layout_height="68dp"
-        android:layout_marginBottom="292dp"
+        android:layout_marginBottom="220dp"
         android:backgroundTint="#673AB7"
         android:padding="15dp"
         android:text="@string/back_to_sign_in"

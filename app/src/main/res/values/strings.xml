@@ -6,10 +6,17 @@
     <string name="lightning_nmcfoodie">Lightning\nMcFoodie</string>
     <string name="password">Password</string>
     <string name="email_address">Email Address</string>
-    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="don_t_have_an_account_sign_up">Don’t have an account? Sign up</string>
     <string name="sign_in">Sign In</string>
     <string name="the_fastest_food_ndelivery_service">The Fastest Food\nDelivery Service</string>
     <string name="back">Back</string>
     <string name="homeee_pageee">Homeee Pageee</string>
     <string name="back_to_sign_in">Back to Sign In</string>
+
+    <!-- New strings for split prompt and signup screen -->
+    <string name="dont_have_an_account">Don’t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_account">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
 </resources>
